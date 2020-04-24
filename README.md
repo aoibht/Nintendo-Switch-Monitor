@@ -4,9 +4,9 @@ Caused by the Covid-19 Pandemic, a demand spike for home entertainment systems h
 
 Luckily, Target does allow you to order online. Instead, everyday they restock a few Nintendo Switchs at various locations in New York. 
 
-This program checks the target website to see if the Switch is in stock. If it is, then it sends an email to me and my bbrother, linking to the URL of the switch. 
+This program checks the target website to see if the Switch is in stock. If it is, then it sends an email to me and my brother linking to the URL of the switch. 
 
-I wrote this program in only a few minutes! 
+I wrote this program in only a few minutes! It is purely practical.
 
 Thank you to https://realpython.com/python-send-email/ for demonstrating how to use the smtplib package. 
 
